@@ -11,7 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1 Name: Emran Radfar
+Student number: s3894684
+Student email address: s3894684@student.rmit.edu.au
+Nationality: Iran
+Religion: Christian 
+Languages spoken: English, Persian.
+I really enjoy watching soccer (whenever there is a game that interests me) or running or jump roping in my spare time 😊
+What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? 
+Outline your IT experience (if any).
+Why did you choose to come to RMIT?
+What do you expect to learn during your studies?
+
 ## Header 2
 ### Header 3
 
